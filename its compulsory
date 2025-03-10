@@ -1,0 +1,5 @@
+Notes
+
+    You can use React Navigation for handling screen transitions and passing data.
+    The application fetches 80 users at once, but you only display one user per screen, adjusting the index with each button press.
+    The app should be tested for both Android and iOS platforms to ensure compatibility.
