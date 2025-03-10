@@ -1,0 +1,18 @@
+Evaluation Criteria
+
+    Code Quality:
+        Code is clean, well-structured, and contains meaningful comments.
+
+    React Native Usage:
+        Efficient use of components (e.g., View, Text, Image, Button, ScrollView) and navigation.
+
+    Data Handling:
+        API data is fetched asynchronously and displayed correctly.
+        Handles loading, error scenarios, and state management.
+
+    UI Design:
+        The app has a simple and clean layout with proper spacing, fonts, and image alignment.
+        Avatar is displayed as a rounded image.
+
+    Error Handling:
+        Error handling is in place for API calls, and edge cases such as navigation boundaries are managed.
